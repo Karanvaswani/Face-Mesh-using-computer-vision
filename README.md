@@ -9,3 +9,18 @@ For performance evaluation, the application calculates and displays real-time FP
 The project is built around a clean, modular design. The core logic is encapsulated in a reusable FaceMeshDetector class, making it easy to integrate this functionality into larger projects. Developers can also adjust configuration parameters such as detection confidence, tracking confidence, maximum number of faces, and whether to draw the mesh overlay.
 
 Overall, this project serves as a robust foundation for anyone interested in computer vision, face analysis, or real-time AI applications. It is well-structured, easily customizable, and ready for practical deployment or further research. 
+🚀 Features
+
+Real-time face mesh detection
+
+Supports multiple faces
+
+Maps 468 facial landmarks per face
+
+Automatic camera detection
+
+FPS display for performance monitoring
+
+Modular and reusable design
+
+Fully customizable detection settings
